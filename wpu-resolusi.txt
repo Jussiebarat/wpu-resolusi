@@ -2,4 +2,4 @@ WPU RESOLUSI
 - Konsisten mempelajari pemprograman
 - Mengikuti forum diskusi untuk menambah pengetahuan lebih banyak
 - Fitur download ebooks
-- Membuat layanan chat online
+- Membuat fitur kuis
